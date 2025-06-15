@@ -1,0 +1,4 @@
+display("Hello from ACRI!")
+chat("What is AI?")
+image("a dancing robot on Mars")
+translate("Namaste", to="English")

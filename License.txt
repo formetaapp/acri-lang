@@ -1,0 +1,18 @@
+MIT License
+
+Copyright (c) 2025 Devspeck
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software (ACRI Language), to use, copy, modify, merge, publish, distribute,
+and/or sell copies of the software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+2. The Software is provided "as is", without warranty of any kind.
+
+3. You must give credit to the original creator, Biswarup Das.
+
+4. You may not claim that you created the ACRI language unless you have made significant changes.
+
+ACRI is free to use for learning, experiments, and AI development.
